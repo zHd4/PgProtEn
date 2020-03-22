@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgProtEn", "PgProtEn\PgProtEn.csproj", "{4110448B-C6BF-4712-8B70-30776C475725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4110448B-C6BF-4712-8B70-30776C475725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4110448B-C6BF-4712-8B70-30776C475725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4110448B-C6BF-4712-8B70-30776C475725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4110448B-C6BF-4712-8B70-30776C475725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E63D34EE-C294-43A5-813A-2874ABC165FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\bin\Debug\PgProtEn.exe
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\bin\Debug\PgProtEn.pdb
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\bin\Debug\Starksoft.Cryptography.OpenPGP.dll
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.csprojAssemblyReference.cache
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.CryptForm.resources
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.Properties.Resources.resources
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.csproj.GenerateResource.cache
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.csproj.CoreCompileInputs.cache
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.csproj.CopyComplete
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.exe
+C:\Users\yevhe\Documents\zHd4\cs_projects\PgProtEn\PgProtEn\obj\Debug\PgProtEn.pdb
